@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1533604379 source:c:\c++ program\story-based game\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	"Enemy.h"
+	"Orcs.h"
+	"Globins.h"
+
+1533603597 source:c:\c++ program\story-based game\globins.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	"Enemy.h"
+	"Orcs.h"
+	"Globins.h"
+
+1533598392 c:\c++ program\story-based game\globins.h
+
+1533604303 source:c:\c++ program\story-based game\orcs.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	"Enemy.h"
+	"Orcs.h"
+	"Globins.h"
+
+1533597966 c:\c++ program\story-based game\orcs.h
+	<string>
+
+1533604303 source:c:\c++ program\story-based game\enemy.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	"Enemy.h"
+	"Orcs.h"
+	"Globins.h"
+
+1533604556 c:\c++ program\story-based game\enemy.h
+	<string>
+
